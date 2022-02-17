@@ -6,10 +6,11 @@ public class Cyclic_algoritms {
 
     public static void main(String args[]) {
         int t;
+        int g;
         boolean prima = true;
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите число для проверки:");
-
+        g=0;
         int num = scan.nextInt();
 
         for (int i = 2; i <= Math.sqrt(num); i++) {
