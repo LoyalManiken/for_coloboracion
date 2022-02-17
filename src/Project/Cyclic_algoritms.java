@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Cyclic_algoritms {
 
     public static void main(String args[]) {
-        int temp;
+        int t;
         boolean prima = true;
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите число для проверки:");
@@ -13,8 +13,8 @@ public class Cyclic_algoritms {
         int num = scan.nextInt();
 
         for (int i = 2; i <= Math.sqrt(num); i++) {
-            temp = num % i;
-            if (temp == 0) {
+            t = num % i;
+            if (t == 0) {
                 prima = false;
                 break;
             }
