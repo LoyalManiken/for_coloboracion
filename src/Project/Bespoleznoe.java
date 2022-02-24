@@ -10,5 +10,5 @@ package Project;
  * @author 21599
  */
 public class Bespoleznoe {
- gagaga   
+ /*gagaga*/   
 }
