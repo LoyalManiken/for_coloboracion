@@ -28,4 +28,4 @@ public class Cyclic_algoritms {
     }
 }
 
-//Vlad Choooooort)
+//Vlad neee chooooort)
