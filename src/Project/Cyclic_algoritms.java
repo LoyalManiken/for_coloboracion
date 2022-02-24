@@ -28,4 +28,5 @@ public class Cyclic_algoritms {
     }
 }
 
-//Vlad Choooooort)
+//Vlad molodec
+//samiy klassniy
