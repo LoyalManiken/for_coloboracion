@@ -27,4 +27,4 @@ public class Cyclic_algoritms {
         }
     }
 }
-
+/*ya ne znay chto pisat'*/
